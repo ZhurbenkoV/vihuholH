@@ -8,7 +8,7 @@
 #define конст const
 #define континуе continue
 #define дефаулт default
-#define ду do
+#define до do
 #define елсе else
 #define фалсе false
 #define труе true
