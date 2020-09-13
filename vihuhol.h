@@ -37,5 +37,6 @@
 #define унсигнед unsigned
 #define схорт short
 #define инклуде include
+#define воид void
 
 #endif
